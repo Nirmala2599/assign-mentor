@@ -1,0 +1,272 @@
+[{"mentor":"mongoose collection"},    {
+        "_id": "649858d8e3e0b1f9992a249d",
+        "name": "Guvi",
+        "roll": "1",
+        "class": "GuviB46",
+        "registered_on": "2023-02-01T18:30:00.000Z",
+        "subjects": [
+            "Task solver",
+            "FSD"
+        ],
+        "gender": "male",
+        "contact_no": "987654323",
+        "__v": 0
+    },
+    {
+        "_id": "64985923e3e0b1f9992a249f",
+        "name": "Nirmala",
+        "roll": "2",
+        "class": "GuviB46",
+        "registered_on": "2023-02-01T18:30:00.000Z",
+        "subjects": [
+            "FSD",
+            "React",
+            "Node js"
+        ],
+        "gender": "Female",
+        "contact_no": "98765432376",
+        "__v": 0
+    },
+    {
+        "_id": "6498593be3e0b1f9992a24a1",
+        "name": "nive",
+        "roll": "3",
+        "class": "GuviB46",
+        "registered_on": "2023-03-01T18:30:00.000Z",
+        "subjects": [
+            "FSD",
+            "React",
+            "Node js"
+        ],
+        "gender": "Female",
+        "contact_no": "9876376",
+        "__v": 0
+    },
+    {
+        "_id": "6498594fe3e0b1f9992a24a3",
+        "name": "nari",
+        "roll": "4",
+        "class": "GuviB46",
+        "registered_on": "2023-03-01T18:30:00.000Z",
+        "subjects": [
+            "FSD",
+            "React",
+            "Node js"
+        ],
+        "gender": "Female",
+        "contact_no": "9876336",
+        "__v": 0
+    },
+    {
+        "_id": "64985963e3e0b1f9992a24a5",
+        "name": "madhu",
+        "roll": "5",
+        "class": "GuviB46",
+        "registered_on": "2023-04-01T18:30:00.000Z",
+        "subjects": [
+            "FSD",
+            "React",
+            "Node js"
+        ],
+        "gender": "Female",
+        "contact_no": "987633886",
+        "__v": 0
+    },
+    {
+        "_id": "64985983e3e0b1f9992a24a9",
+        "name": "lingesh",
+        "roll": "6",
+        "class": "GuviB46",
+        "registered_on": "2023-04-01T18:30:00.000Z",
+        "subjects": [
+            "FSD",
+            "React",
+            "Node js"
+        ],
+        "gender": "male",
+        "contact_no": "98700633886",
+        "__v": 0
+    },
+    {
+        "_id": "64985995e3e0b1f9992a24ab",
+        "name": "logesh",
+        "roll": "7",
+        "class": "GuviB46",
+        "registered_on": "2023-04-01T18:30:00.000Z",
+        "subjects": [
+            "FSD",
+            "React",
+            "Node js"
+        ],
+        "gender": "male",
+        "contact_no": "900633886",
+        "__v": 0
+    },
+    {
+        "_id": "649859abe3e0b1f9992a24ad",
+        "name": "chen",
+        "roll": "8",
+        "class": "GuviB46",
+        "registered_on": "2023-05-01T18:30:00.000Z",
+        "subjects": [
+            "FSD",
+            "React",
+            "Node js"
+        ],
+        "gender": "male",
+        "contact_no": "770976544",
+        "__v": 0
+    },
+    {
+        "_id": "649859bde3e0b1f9992a24af",
+        "name": "gobi",
+        "roll": "9",
+        "class": "GuviB46",
+        "registered_on": "2023-05-01T18:30:00.000Z",
+        "subjects": [
+            "FSD",
+            "React",
+            "Node js"
+        ],
+        "gender": "male",
+        "contact_no": "660976544",
+        "__v": 0
+    },
+    {
+        "_id": "649859cce3e0b1f9992a24b1",
+        "name": "muthu",
+        "roll": "10",
+        "class": "GuviB46",
+        "registered_on": "2023-05-01T18:30:00.000Z",
+        "subjects": [
+            "FSD",
+            "React",
+            "Node js"
+        ],
+        "gender": "male",
+        "contact_no": "698976544",
+        "__v": 0
+    },
+    [{"Students":"mongoose collection"},
+        {
+            "_id": "64985481e3e0b1f9992a2487",
+            "name": "dev",
+            "roll": "01",
+            "class": "GuviB4",
+            "subjects": [
+                "React",
+                "Node js"
+            ],
+            "gender": "male",
+            "__v": 0
+        },
+        {
+            "_id": "64985512e3e0b1f9992a2489",
+            "name": "Siva",
+            "roll": "02",
+            "class": "GuviB46",
+            "subjects": [
+                "GitHub",
+                "Netlify"
+            ],
+            "gender": "male",
+            "__v": 0
+        },
+        {
+            "_id": "64985558e3e0b1f9992a248b",
+            "name": "Thiru",
+            "roll": "03",
+            "class": "GuviB46",
+            "subjects": [
+                "React",
+                "gitHub",
+                "Queries solver"
+            ],
+            "gender": "male",
+            "__v": 0
+        },
+        {
+            "_id": "64985591e3e0b1f9992a248d",
+            "name": "Manikandan",
+            "roll": "04",
+            "class": "GuviB46",
+            "subjects": [
+                "FSD"
+            ],
+            "gender": "male",
+            "__v": 0
+        },
+        {
+            "_id": "649855bde3e0b1f9992a248f",
+            "name": "Deepa K",
+            "roll": "05",
+            "class": "GuviB46",
+            "subjects": [
+                "FSD",
+                "Zen Class"
+            ],
+            "gender": "male",
+            "__v": 0
+        },
+        {
+            "_id": "6498565de3e0b1f9992a2491",
+            "name": "prabakaran jayapalan",
+            "roll": "06",
+            "class": "GuviB46",
+            "subjects": [
+                "Mock interview1",
+                "Mock interview2"
+            ],
+            "gender": "male",
+            "__v": 0
+        },
+        {
+            "_id": "649856b4e3e0b1f9992a2493",
+            "name": "Logesh",
+            "roll": "07",
+            "class": "GuviB46",
+            "subjects": [
+                "All",
+                "Non technical"
+            ],
+            "gender": "male",
+            "__v": 0
+        },
+        {
+            "_id": "649856f3e3e0b1f9992a2495",
+            "name": "Sunny",
+            "roll": "08",
+            "class": "GuviB46",
+            "subjects": [
+                "Task solver",
+                "FSD"
+            ],
+            "gender": "male",
+            "__v": 0
+        },
+        {
+            "_id": "6498572fe3e0b1f9992a2497",
+            "name": "Raghu Ram",
+            "roll": "09",
+            "class": "GuviB46",
+            "subjects": [
+                "Task solver",
+                "FSD"
+            ],
+            "gender": "male",
+            "__v": 0
+        },
+        {
+            "_id": "6498574ae3e0b1f9992a2499",
+            "name": "Guvi",
+            "roll": "10",
+            "class": "GuviB46",
+            "subjects": [
+                "Task solver",
+                "FSD"
+            ],
+            "gender": "male",
+            "__v": 0
+        }
+    ]
+]
